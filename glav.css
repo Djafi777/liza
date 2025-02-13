@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+div {
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    background: rgba(187, 44, 175, 0.733);
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+button {
+    position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+margin: 150px 0;
+width: 200px;
+height: 50px;
+border-radius: 15px;
+border: none;
+background: #e4a9da80;
+color: #fff;
+} 
+
